@@ -1,4 +1,4 @@
-# Afinador <img width="30" src="https://cdn.iconscout.com/icon/free/png-256/arduino-1-226076.png"/>
+# Afinador <img width="20" src="https://cdn.iconscout.com/icon/free/png-256/arduino-1-226076.png"/>
 
 ## Sobre o projeto
 Este projeto consiste num afinador para violão e guitarra, feito com Arduino, para a disciplina de Introdução a Engenharia da Computação.
