@@ -1,5 +1,5 @@
+# Afinador <img width="20" src="https://cdn.iconscout.com/icon/free/png-256/arduino-1-226076.png"/>
 
-# Afinador 
 ## Sobre o projeto
 Este projeto consiste num afinador para violão e guitarra, feito com Arduino, para a disciplina de Introdução a Engenharia da Computação.
 
@@ -24,6 +24,6 @@ Este projeto consiste num afinador para violão e guitarra, feito com Arduino, p
 
 - [Emmanuel Aprígio](https://github.com/emmano2997 "Emmanuel Aprígio")
 - [João Victor](https://github.com/JoaoVictor-freire "João Victor")
-- [Marcelo de Freitas](https://github.com/ralfferreira "Marcelo de Freitas")
+- [Marcelo de Freitas](https://github.com/mxxxrc "Marcelo de Freitas")
 - [Petrus George](https://github.com/PetrusGeorge "Petrus George")
 - [Ralf Dewrich](https://github.com/ralfferreira "Ralf Dewrich")
