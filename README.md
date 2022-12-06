@@ -2,8 +2,6 @@
 
 ## Sobre o projeto
 Este projeto consiste num afinador para violão e guitarra, feito com Arduino, para a disciplina de Introdução a Engenharia da Computação.
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
           
 ## Tecnologias e Componentes
 - Arduino
